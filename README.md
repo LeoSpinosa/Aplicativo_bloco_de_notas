@@ -5,5 +5,5 @@ Realizado o projeto seguindo a ideia de:
 
 ● Desenvolver o exercício proposto no arquivo em anexo em sala de aula implementando todos os detalhes e solicitações descritas sem utilizar o QT Designer.
 
-Anexo junto ao repositório.
+Anexo dos requisitos e Regra de negócio junto ao repositório.
 
